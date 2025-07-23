@@ -1,2 +1,2 @@
-nella prima directory: springboot backend
+nella prima directory: springboot backend, mentre
 nella seconda directory: angular frontend
